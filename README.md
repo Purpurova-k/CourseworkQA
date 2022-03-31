@@ -11,8 +11,8 @@
 ## Отчетная документация
 
 * [План автоматизации тестирования](https://github.com/Purpurova-k/CourseworkQA/blob/master/Documentation/Plan.md)
-* Отчет по итогам тестирования
-* Отчет по итогам автоматизации
+* [Отчет по итогам тестирования](https://github.com/Purpurova-k/CourseworkQA/blob/c8f8f103b82de76a3265eb7dbe4dfee0d99b1484/Documentation/Report.md)
+* [Отчет по итогам автоматизации](https://github.com/Purpurova-k/CourseworkQA/blob/c8f8f103b82de76a3265eb7dbe4dfee0d99b1484/Documentation/Summary.md)
 
 ## Подготовка необходимого окружения
 
